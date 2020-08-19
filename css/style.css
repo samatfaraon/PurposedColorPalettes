@@ -57,12 +57,9 @@ h1 {
 .container2 {
     display: flex;
     flex-direction: row;
-    justify-content: flex-start;
-    align-items: flex-start;
     width: 70%;
     height: 100%;
     font-family: 'Roboto', Times, serif;
-    font-size: x-large;
     }
 .target-img {width: 75%;}
 .picture {width: 100%; heigth: 100%;}
@@ -74,9 +71,7 @@ h1 {
 }
 .color-combinations div {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    flex: 1 0 auto;
+    flex: 1;
 }
 #color1 {background-color: #8EB5F5;}
 #color2 {background-color: #6F7586;}
