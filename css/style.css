@@ -64,13 +64,13 @@ h1 {
     font-family: 'Roboto', Times, serif;
     font-size: x-large;
     }
-.target-img {width: 60%;}
+.target-img {width: 75%;}
 .picture {width: 100%; heigth: 100%;}
 .color-combinations {
     display: flex;
     flex-direction: column;
-    width: 40%;
-    height: 604px;
+    width: 25%;
+    height: 100%;
 }
 .color-combinations div {
     display: flex;
