@@ -65,6 +65,7 @@ h1 {
     font-size: x-large;
     }
 .target-img {width: 60%;}
+.picture {width: 100%; heigth: 100%;}
 .color-combinations {
     display: flex;
     flex-direction: column;
